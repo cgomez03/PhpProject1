@@ -35,7 +35,7 @@ and open the template in the editor.
 		echo "1/2= ".($valor1/$valor2)."<br/>";
                 
                 echo "Metodo fantasma<br/>";
-                echo "modificamos metodo fantasma";
+                echo "modificamos metod fantasma";
         ?>
         ?>
     </body>
