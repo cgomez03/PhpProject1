@@ -33,6 +33,8 @@ and open the template in the editor.
                 
                 //Divisió
 		echo "1/2= ".($valor1/$valor2)."<br/>";
+                
+                echo "Metodo fantasma<br/>";
         ?>
         ?>
     </body>
