@@ -31,11 +31,12 @@ and open the template in the editor.
 		//Divisió
 		echo "1/2= ".($valor1/$valor2)."<br/>";
                 
-               
+                //Divisió
+		echo "1/2= ".($valor1/$valor2)."<br/>";
                 
                 echo "Metodo fantasma<br/>";
-                echo "modificamos metod fantasma";
-                echo "añadimos metod fantasma";
+                //Fantasma
+		echo "1/2= ".($valor1/$valor2)."<br/>";
         ?>
         ?>
     </body>
