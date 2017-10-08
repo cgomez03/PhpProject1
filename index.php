@@ -17,7 +17,7 @@ and open the template in the editor.
 		$valor2=2;
 		
 		//Suma
-		echo "1+2= ".($valor1+$valor2)."<br/>";
+		echo "1-2= ".($valor1-$valor2)."<br/>";
 		
 		//Resta
 		echo "1-2= ".($valor1-$valor2)."<br/>";
@@ -26,7 +26,7 @@ and open the template in the editor.
 		echo "1*2= ".($valor1*$valor2)."<br/>";
 		
 		//Divisió
-		echo "1/2= ".($valor1/$valor2)."<br/>";
+		echo "1+2= ".($valor1/$valor2)."<br/>";
 		
 		//Divisió
 		echo "1/2= ".($valor1/$valor2)."<br/>";
